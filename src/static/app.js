@@ -20,6 +20,21 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const spotsLeft = details.max_participants - details.participants.length;
 
+        //Copilot sucks
+        //Copilot sucks
+        //Copilot sucks
+        //Copilot sucks
+        //Copilot sucks
+        //Copilot sucks
+        //Copilot sucks
+        //Copilot sucks
+        //Copilot sucks
+        //Copilot sucks
+        //Copilot sucks
+        //Copilot sucks
+        //Copilot sucks
+
+
         activityCard.innerHTML = `
           <h4>${name}</h4>
           <p>${details.description}</p>
